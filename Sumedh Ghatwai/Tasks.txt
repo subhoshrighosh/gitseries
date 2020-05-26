@@ -1,0 +1,43 @@
+Task 1:
+1.What are git and GitHub?
+
+Git is a free, open-source version control software. It was created by Linus Torvalds in 2005.Real life projects generally have multiple developers working in parallel. So they need a version control system like Git to track history and to avoid any code conflicts in future.
+GitHub is a Git repository hosting service, a cloud-based source code management or version control system. Something like a social networking site for programmers.
+
+
+2.Why GitHub is so popular and used in most of the projects?
+
+GitHub is an open environment where programmers can freely share and collaborate on open source code. GitHub makes it easy to find useful code, copy repositories for your own use, and submit changes to others’ projects. Therefore, GitHub has become home to virtually every open source project.
+
+
+3.What are the other platforms similar to GitHub?
+
+Bitbucket
+AWS CodeCommit
+Gitea
+
+Task 2:
+a. How git workflow works?
+-- Git workflow has 4 fundamental stages: 
+1. Workspace: Working Directory 
+2. Index (Stage): It is used as a staging area between working directory and your repository
+3. Local Repository is the one on which we will make local changes, generally Local Repository is on our computer.
+4. Remote Repository is the one of the server.
+
+b. What're the different stages of a git project as commit, add?
+-- Git goes through 3 stages
+1. Modified: You can make changes to your copy of the project without hampering the original code 
+2. Staged: Staging area is the place where all the new files are finally ready to be joined to the remote repository.
+3. Commit: When you make a commit, it means that you have successfully applied a certain modification to the code.
+
+c. Is it possible to do a git commit before git add. If you have made any changes? Explain why?
+-- No, it is not possible to do git commit before git add. As per git workflow the file must be added to the index or staging area and then it must committed.
+
+d. Why is git diff used?
+-- It is used to track the difference between the changes made on a file. It compares two files with each other to show how they differ.
+
+e. Can we leave the commit message as blank?
+-- It can be done by using the command: git commit -a --allow-empty-message -m ""
+
+My demo GitHub Repository link:
+https://github.com/sumedhghatwai/DemoRepository
