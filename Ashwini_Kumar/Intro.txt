@@ -1,4 +1,0 @@
-I am Ashwini Kumar.
-I am currently pursuing my BTech degree from Dit University Dehradun.
-I'm currently learning about git and github.
-Thanks.
