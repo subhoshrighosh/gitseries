@@ -1,5 +1,5 @@
-Task-1
-
+Task1:
+Hello , My name is Tisha Jain. I am currently pursuing B.Tech in Computer Science
 1.What is git and gitHub?
 Git-Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions. It can be used completely exclusive of any cloud-hosting service — you don’t even need internet access, except to download it. Git is responsive, easy to use, and inexpensive.
 GitHub-GitHub is designed as a Git repository hosting service. GitHub is a for-profit service (although basic repository-hosting features are available at no cost to those who are willing to create a user profile.
@@ -11,9 +11,8 @@ GitLab
 Phabricator
 Sourceforge
 
-Task-2
-
-1.How git workflow works?
+Task2:
+git workflow works?
  Ans The idea is simple: 
 •There is one central repository. 
 •Each developer clones the repo, works locally on the code, makes a commit with changes, and push it to the central repository for other developers to pull and use in their work.
@@ -31,3 +30,29 @@ This is the final stage, as this stage finally applies the new changes to the re
  Ans Difference command is used to track the differences or changes made on a file in a working directory.
 4. Can we leave the commit messages as blank?
  Ans Yes,we can do that by using the command 
+ git commit -a --allow-empty-message -m "" 
+My github repo link is
+https://github.com/Tisha-03/Digit-Recognition/blob/master/README.md
+
+Task3:
+1. What is meant by fork and clone?
+ Ans. Fork means you just create a copy of the main repository of a project source code to your own GitHub profile. 
+So,When you fork a repository, you create a copy of the original repository (upstream repository) but the repository remains on your GitHub account. 
+ Clone 
+When you create a new repository on GitHub, it exists as a remote location where your project is stored. You can clone your repository to create a local copy on your computer so that you can sync between both the local and remote locations of the project.
+2.What are branches in GitHub?
+ Ans. 
+A branch is a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically. The git branch command lets you create, list, rename, and delete branches.
+3.What is PR?
+PR refers to Pull Request.
+When you make local code changes and then submit those changes to a remote project maintainer for review before those changes are implemented, or merged.
+This is called a pull request; you are requesting that someone reviews and approves your changes before they become final.
+4.Can we delete the master branch?
+ Ans. Yes,we can delete the master branch by changing the deafault branch from master.
+5.How can we delete a branch?
+ Ans. we can delete a branch by the following command:
+ git branch -d 
+The -d option will delete the branch only if it has already been pushed and merged with the remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet.
+PR links:
+https://github.com/deepak2431/gitseries/pull/15
+https://github.com/deepak2431/gitseries/pull/19
