@@ -1,4 +1,5 @@
-Task1:
+# Questions and Answers
+## Task1:
 Hello , My name is Tisha Jain. I am currently pursuing B.Tech in Computer Science
 1.What is git and gitHub?
 Git-Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions. It can be used completely exclusive of any cloud-hosting service — you don’t even need internet access, except to download it. Git is responsive, easy to use, and inexpensive.
@@ -11,7 +12,7 @@ GitLab
 Phabricator
 Sourceforge
 
-Task2:
+## Task2:
 git workflow works?
  Ans The idea is simple: 
 •There is one central repository. 
@@ -34,7 +35,7 @@ This is the final stage, as this stage finally applies the new changes to the re
 My github repo link is
 https://github.com/Tisha-03/Digit-Recognition/blob/master/README.md
 
-Task3:
+## Task3:
 1. What is meant by fork and clone?
  Ans. Fork means you just create a copy of the main repository of a project source code to your own GitHub profile. 
 So,When you fork a repository, you create a copy of the original repository (upstream repository) but the repository remains on your GitHub account. 
