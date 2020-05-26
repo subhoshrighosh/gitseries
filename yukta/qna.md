@@ -1,5 +1,5 @@
-#"CODEVAYY'S Task 4"
-#TASK 1
+# "QUESTION  & ANSWERS"
+TASK 1
 
 Hi everyone!
 I am Yukta Gaba, pursuing B.Tech in Computer Science from DIT University, Dehradun.
@@ -24,7 +24,7 @@ AWS Code Commit
 
 
 
-#TASK 2
+TASK 2
 
 1.How git workflow works?
  Ans1. There is one local repository and the developer that wants to make changes clones the repository and make changes using the commit command and further pushes it to the remote repository from where developers can pull and use in their work.
@@ -57,7 +57,7 @@ YUKTA GABA (DIT University)
 
 
 
-#TASK 3
+TASK 3
 
 PULL URL:
 https://github.com/deepak2431/gitseries/pull/13
