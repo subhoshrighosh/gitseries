@@ -1,4 +1,4 @@
-#Task 1
+# Task 1
 
 
 What are git and GitHub?
@@ -20,7 +20,7 @@ GitBucket
 Source Forge
 
 
-#Task 2
+# Task 2
 
 
 a. How git workflow works?
@@ -48,7 +48,7 @@ e. Can we leave the commit message as blank?
 My demo GitHub Repository link:
 https://github.com/Sumit-Heliwal/github_learning_series_codewayy.git
 
-#Task 3
+# Task 3
 
 a. What is meant by the term fork and clone?
 	Fork is the copy or a branch on a GitHub and Clone is an offline copy on ous system.
