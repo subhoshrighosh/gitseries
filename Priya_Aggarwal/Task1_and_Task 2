@@ -60,4 +60,29 @@ Regards
 Priya Aggarwal
 ------------------------------------------------------------------------
 
+Task 3
 
+Day 3 Task 
+Q1 What do you mean by fork and clone ?
+Ans 1. Fork - We create a copy of the main repository of a project source code to our own github profile. In this we can do any changes without affecting the main source of the project. Fork repository makes a connection between our fork and the original repository and we can go back to the original project using pull request. 
+We do clone to make our own repository on our local computer. We cannot pull the changes from the original repository when clonning. 
+
+Q2. What are branches in Github ? 
+Ans 2. When we create a repository, then the main linear list of commits are on master branch. We can makes changes in master as well as in a new branch. All the branches are independent of each other. After editing we can commit the changes in the branch directly or create a new branch. 
+
+Q3. What is PR ? 
+PR stands for pull request. 
+It lets others know about the changes we have pushed to a branch in a repository of github. Once the pull request is open we can discuss and review it before the changes are merged into the main brach. 
+
+Q4. Can we delete the mastar branch if not why ? 
+Ans 4. Yes we can delete the master branch. 
+
+Q5 How can we delete the master branch ?
+Ans 5. First delete the master in your local clone. We can make a new branch first and delete the master. 
+We cannot delete the master branch directly from github instead first we will make github look for our new branch and then delete the master branch. To do so we will push the new branch then set the new branch to github default branch then go to main github page for your forked repository and click on admin button and you are done its set as default. 
+
+1. Forked - https://github.com/deepak2431/gitseries/tree/master/Priya_Aggarwal
+2 PR Branch- https://github.com/priya8936/gitseries/tree/master
+
+Regards 
+Priya Aggarwal
