@@ -48,3 +48,21 @@ e. Can we leave the commit message as blank?
 My demo GitHub Repository link:
 https://github.com/Sumit-Heliwal/github_learning_series_codewayy.git
 
+Task 3
+
+a. What is meant by the term fork and clone?
+	Fork is the copy or a branch on a GitHub and Clone is an offline copy on ous system.
+b. What are branches in Github?
+	Branches are the different project made from one master project by changing the files in the folder.
+c. What is PR?
+	PR is a pull request done for the merging to the master once after the changes are made.
+d. Can we delete the master branch if not Why?
+	Yes 
+e. How can we delete a branch? (Explore a bit about this yourself)
+	It is done by using git branch -d command.
+
+The link of the PR I have made, so the link of two PR's.
+https://github.com/deepak2431/gitseries/pull/63
+https://github.com/deepak2431/gitseries/pull/62
+
+
