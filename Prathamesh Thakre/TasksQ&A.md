@@ -46,7 +46,7 @@ ______________________
 So, we use the commands in the Git command line — git add. So, this command tracks the new changes and pushes it to the staging area
 where all the new files are finally ready to be joined to the remote repository.
 3. Commit: This is the final stage, as this stage finally applies the new changes to the remote repository.
-Commit is a set of new files that are being added to a project as part of the modification.
+Commit is a set of new files that are being added to a project as part of the modification .
 
 ##								    Q3. Is it possible to do a git commit before git add. If you have made any changes? Explain why?
 
