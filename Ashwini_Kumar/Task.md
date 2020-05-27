@@ -1,4 +1,4 @@
-###Task1
+###Task1###
 
 
 1. What is git and gitHub?
@@ -21,7 +21,7 @@ iii. GitBucket
 iv Gitlab
 
 
-###Task2
+###Task2###
 
 
 a. How git workflow works?
@@ -48,7 +48,7 @@ e. Can we leave the commit message as blank?
 
 
 
-###Task3:
+###Task3:##
 
 1. What is meant by fork and clone?
 --> **Fork** : 
