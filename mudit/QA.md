@@ -1,4 +1,4 @@
-#**```Task 1```**
+# **```Task 1```**
 
 **Que 1: What are Git and GitHub?**
 
@@ -21,7 +21,7 @@
 • GitBucket
 ```
 
-#**```task 2```**
+# **```task 2```**
 
 **Ques 1. How git workflow works?** 
 
@@ -54,12 +54,12 @@ The files will be stored in local and remote repo so that we can access our proj
 *yes we can leave the commit message as blank.*
 
 
-#**```Task -3```** 
+# **```Task -3```** 
 
 **```PULL URL:-```**
 
-[GitHub](https://github.com/deepak2431/gitseries/pull/2)
-[GitHub](https://github.com/deepak2431/gitseries/pull/4) 
+[GitHub pr-1](https://github.com/deepak2431/gitseries/pull/2)
+[GitHub pr-2](https://github.com/deepak2431/gitseries/pull/4) 
 
 
 **Ques1: What is meant by the term fork and clone?**
