@@ -2,10 +2,10 @@
 
 
 1. What is git and gitHub?
-Git- Git is a type of version control system that makes it easier to track changes to files or in the source code. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. It is a program installed in a system. 
+**Git**- Git is a type of version control system that makes it easier to track changes to files or in the source code. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. It is a program installed in a system. 
 Its current maintainer since 2005 is Junio Hamano. As with most other distributed version-control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.
 
-GitHub- It provides hosting for software development version control using Git. It allows us to create remote repository on website and provides a platform to bring teams together.
+**GitHub**- It provides hosting for software development version control using Git. It allows us to create remote repository on website and provides a platform to bring teams together.
 GitHub accounts are commonly used to host open source projects.
 
 2. Why GitHub is so popular and used in most of the projects?
