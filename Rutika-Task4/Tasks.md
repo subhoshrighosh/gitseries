@@ -1,6 +1,6 @@
-#TASK
+# TASK
 
-##Day 1 task
+## Day 1 task
 
 Hello everyone
 My name is **Rutika Mandape** and I'm  pursuing my BE in IT  from  YCCE Nagpur.
@@ -31,7 +31,7 @@ GITHUB :
 Hello everyone,
 My name is Rutika Mandape and  i'm persuing my BE in IT from YCCE Nagpur.
 
-##TASK 2
+## TASK 2
 
 **(A) How git workflow works?**
 There are four fundamental elements is git workflow:
@@ -73,17 +73,16 @@ Diff command is used to track  the difference or changes made on a file.
  **(e) Can we leave the commit message as blank?**
 Yes, we can leave the commit message as blank .  we can leave the commit message as blank by using following command :
 git commit -a--allow-empty-message -m ""My gitHub Repository link:
-[https://github.com/rutikamandape01/Example/tree/master] (https://github.com/rutikamandape01/Example/tree/master)
+ (https://github.com/rutikamandape01/Example/tree/master)
 
 Regards,
 Rutika Mandape
 
-##Task 3
+## Task 3
 PR links:
+ (https://github.com/rutikamandape01/gitseries/tree/beta/Rutika01)
 
-[https://github.com/rutikamandape01/gitseries/tree/beta/Rutika01] (https://github.com/rutikamandape01/gitseries/tree/beta/Rutika01)
-
-[https://github.com/deepak2431/gitseries/pull/32] (https://github.com/deepak2431/gitseries/pull/32)
+ (https://github.com/deepak2431/gitseries/pull/32)
 
 
 **1) What is meant by the term fork and clone?**
