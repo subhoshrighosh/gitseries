@@ -1,4 +1,4 @@
-Task1
+###Task1
 
 
 1. What is git and gitHub?
@@ -21,7 +21,7 @@ iii. GitBucket
 iv Gitlab
 
 
-Task2
+###Task2
 
 
 a. How git workflow works?
@@ -44,4 +44,28 @@ d. Why is git diff used?
    diff command is used in git to track the difference between the changes made on a file.
 
 e. Can we leave the commit message as blank?
-   Yes we can leave the commit message as blank and iCan we leave the commit message as blank?t can be done by using the command: git commit -a --allow-empty-message -m ""
+   Yes we can leave the commit message as blank and iCan we leave the commit message as blank?t can be done by using the command: **git commit -a --allow-empty-message -m ""**
+
+
+
+###Task3:
+
+1. What is meant by fork and clone?
+--> **Fork** : 
+    Fork means creating a personal copy from others project and it help us to modify and make changes in it without affecting the original content. 
+    **Clone** : 
+    When you create a new repository on GitHub, it exists as a remote location where your project is stored. You can clone your repository to create a local copy on your computer so that you can sync between both the local and remote locations of the project.
+
+2. What are branches in GitHub? 
+--> Branches are an individual projects within a git repository. Branches are like movable pointers to the commits. All the branches are independent of each other. The default branch is the Master branch. Once we have made changes to a project we can merge that particular branch to the master branch. It is used mainly to reduce redundancy in the project.
+3. What is PR?
+--> PR stands for Pull Request.When you make local code changes and then submit those changes to a remote project maintainer for review before those changes are implemented, or merged.
+    This is called a pull request; you are requesting that someone reviews and approves your changes before they become final.
+
+4. Can we delete the master branch?
+--> Yes,we can delete the master branch by changing the deafault branch from master.
+5. How can we delete a branch?
+--> we can delete a branch by the following command:
+    git branch -d 
+    The -d option will delete the branch only if it has already been pushed and merged with the remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet.
+
